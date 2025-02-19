@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**Gonzalo689/Gonzalo689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Gonzalo  
+📌 Desarrollador de software | Data Scientist en formación  
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí  
+🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma  
+💡 Apasionado por la tecnología, IA y Big Data.  
+📚 Aprendiendo más sobre **desarrollo de software** y **ciencia de datos**.  
+🚀 En busca de nuevas oportunidades y desafíos tecnológicos.  
+🎯 Mi objetivo: Contribuir en proyectos innovadores y de alto impacto.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Tecnologías y herramientas  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+  </tr>
+</table>
+
+
+### 📈 Estadísticas de GitHub  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalo689&layout=compact&theme=radical)  
+
+### 📫 Contacto  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gonzalo-contreras-donoso)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
+[![Web](https://img.shields.io/badge/Mi_Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gonzalo-contreras.web.app/)
+
+
+
