@@ -1,6 +1,6 @@
 
 # 👋 ¡Hola! Soy Gonzalo  
-📌 Desarrollador de software | Data Scientist en formación  
+📌 Desarrollador Full Stack | Data Scientist
 
 ### 👨‍💻 Sobre mí  
 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma  
